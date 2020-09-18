@@ -1,0 +1,47 @@
+/* Write some CSS below */
+body{
+    font-family: Overpass;
+    color: #404042;
+    font-size: 18px;
+    margin: 0;
+}
+
+.banner {
+    background-image: url("images/background.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 150px 0;
+    text-align: center;    
+}
+
+.banner h1 {
+    font-family: Chivo;
+    font-size: 45px;
+    color: white;
+    margin: 0;
+}
+
+.banner p {
+    font-family: Overpass;
+    font-size: 24px;
+    color: #C3C3AD;
+    margin-top: 24px;
+    margin-bottom: 40px;
+
+}
+
+.banner a {
+    text-decoration: none;
+}
+
+.btn-blue {
+    background-color: #1A48E3;
+    color: white;
+    font-size: 20px;
+    padding: 16px 48px;
+    font-family: Overpass;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
